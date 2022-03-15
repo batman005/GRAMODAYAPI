@@ -1,6 +1,7 @@
 # Gramoday-API
 
 A Express JS API (using MongoDB) web-service which captures user contributed reports and returns an aggregate report in response.
+for testing i used mocha-chai Framework
 PostmanDocumentation link : (https://documenter.getpostman.com/view/14075459/UVsLS6jZ)
 
 ---
