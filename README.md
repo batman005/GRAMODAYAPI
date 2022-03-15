@@ -1,6 +1,7 @@
 # Gramoday-API
 
 A Express JS API (using MongoDB) web-service which captures user contributed reports and returns an aggregate report in response.
+PostmanDocumentation link : (https://documenter.getpostman.com/view/14075459/UVsLS6jZ)
 
 ---
 
@@ -15,7 +16,7 @@ You will need [Nodejs](https://nodejs.org/en/), [MongoDB](https://www.mongodb.co
 1. Clone this repository.
 
    ```sh
-   git clone https://github.com/karmanya007/Gramoday-API.git
+   git clone https://github.com/batman005/GRAMODAYAPI.git
    ```
 
 2. Make config.env file and put the following variables:
@@ -37,8 +38,6 @@ You will need [Nodejs](https://nodejs.org/en/), [MongoDB](https://www.mongodb.co
 
    ```
     npm run test
-    OR
-    npm run watch
    ```
 
 5. Visit http://localhost:3000/
